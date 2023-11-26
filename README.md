@@ -1,7 +1,7 @@
 **1.** sorunun cozumu https://github.com/keza/tiktak/blob/main/src/main/java/com/tiktak/backend/util/Tiktak.java
 
 **2.** soru icin servis cagrilari
-
+```
 GET http://localhost:8080/api/inspections/47
 
 
@@ -31,3 +31,4 @@ Content-Type: application/json
     }
   ]
 }
+```
