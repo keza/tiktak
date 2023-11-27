@@ -1,3 +1,5 @@
+**Faruk KAYA**
+
 **1.** sorunun cozumu https://github.com/keza/tiktak/blob/main/src/main/java/com/tiktak/backend/util/Tiktak.java
 
 **2.** soru icin servis cagrilari
