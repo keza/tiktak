@@ -2,6 +2,17 @@
 
 **2.** soru icin servis cagrilari
 ```
+
+
+!!!!
+Serkan Burak Böke Edit Begin
+
+Bir de adını yazabilir misin? :) Case i kontrol ediyorum ama kimin olduğunu anlayamadım
+
+Serkan Burak Böke Edit End
+!!!!
+
+
 GET http://localhost:8080/api/inspections/47
 
 
